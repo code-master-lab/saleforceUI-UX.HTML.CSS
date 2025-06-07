@@ -1,7 +1,5 @@
-🔹 **Sell Force – Your Go-To Digital Product Display**
-
-**Sell Force** is a simple and elegant **static website** designed to showcase products or services with a clean user interface. Built entirely with **HTML and CSS**, it reflects a modern approach to **UI/UX design**, focusing on **user-friendliness**, **visual clarity**, and **layout structure**.
-
+<h3>🔹 <strong>Sell Force – Your Go-To Digital Product Display</strong></h3>
+<p><strong>Sell Force</strong> is a simple and elegant <strong>static website</strong> designed to showcase products or services with a clean user interface. Built entirely with <strong>HTML and CSS</strong>, it reflects a modern approach to <strong>UI/UX design</strong>, focusing on <strong>user-friendliness</strong>, <strong>visual clarity</strong>, and <strong>layout structure</strong>.</p>
 
 ⚡ Perfect for beginners or those wanting to explore front-end design without using JavaScript or backend technologies.
 
